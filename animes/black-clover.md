@@ -1,6 +1,6 @@
 # Black Clover
 
-    O anime black colver tem os generos shounem, aventura, ação, comédia, drama, suspence
+    O anime black clover tem os generos shounem, aventura, ação, comédia, drama, suspence
 
 ## Resumo
 - Asta vai para capital
