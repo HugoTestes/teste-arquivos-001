@@ -6,4 +6,4 @@
 - Asta vai para capital
 - Asta vira menbro dos touros negros
 - Asta derrota os demonios
-- Asta vira o rei magonode
+- Asta vira o rei mago
